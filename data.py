@@ -1,0 +1,1 @@
+data=['guidance','range','tribal','salem','scotland','floppy','analyz','measured','mouse','lebanon','ksa']

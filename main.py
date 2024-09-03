@@ -35,7 +35,7 @@ def hangman():
             print("Invalid character. Please try again.")
     print("Current word: "," ".join(word_list))
     print(f"Congratulations! You've guessed the word: {word}")
-    print("")
+    print("tttt")
 
 
 hangman()
